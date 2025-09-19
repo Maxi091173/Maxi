@@ -1,9 +1,11 @@
 **Introducció**
 "Hola, em dic Maxi i soc un novell en tot aixo d'informatica, espero aprendre moltes coses i pasarla bé en aquests temps"
+
 **Dades personals**
 * Nom:Maxi Escribano Bosch
 * Ubicació: Barcelona, Catalunya
 * Email -personal-: mescribanobosch@gmail.com
+
 **Aficcions i Interessos**
 * La technologia
 * L'informatica
