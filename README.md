@@ -19,7 +19,9 @@
   "Puig Castellar"
 
 **Imatge dels meus Gustos i interesos**
-![clarejar](<img width="900" height="656" alt="Captura de pantalla de 2025-09-25 13-58-35" src="https://github.com/user-attachments/assets/9cedb154-e925-4bf2-9615-b2b0b8e9f8a8" />)
+![clarejar]()
+![Videojocs]()
+![Programacion](https://github.com/user-attachments/assets/f454fb95-f4e2-4218-816d-86bd13c6b66c)
 
 
 **Tasques pendents**
