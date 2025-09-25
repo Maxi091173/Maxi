@@ -21,9 +21,6 @@
 **Imatge dels meus Gustos i interesos**
 
 
-![clarejar](<img width="900" height="656" alt="Clarejar" src="https://github.com/user-attachments/assets/063c1ce6-be68-4972-b1e6-5991d63e43ed" />)
-
-
 ![Videojuegos](https://github.com/user-attachments/assets/cdf186a0-2b02-4ba7-bf44-145d38d511ef)
 
 
