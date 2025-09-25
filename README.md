@@ -19,8 +19,15 @@
   "Puig Castellar"
 
 **Imatge dels meus Gustos i interesos**
-![clarejar]()
-![Videojocs]()
+
+
+![clarejar](<img width="900" height="656" alt="Clarejar" src="https://github.com/user-attachments/assets/063c1ce6-be68-4972-b1e6-5991d63e43ed" />)
+
+
+![Videojuegos](https://github.com/user-attachments/assets/cdf186a0-2b02-4ba7-bf44-145d38d511ef)
+
+
+
 ![Programacion](https://github.com/user-attachments/assets/f454fb95-f4e2-4218-816d-86bd13c6b66c)
 
 
