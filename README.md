@@ -19,7 +19,8 @@
   "Puig Castellar"
 
 **Imatge dels meus Gustos i interesos**
-![clarejar a la platja](https://www.fotopaises.com/Fotos-Paises/t1024/2021/12/16/2515_1639591136.jpg)
+![clarejar a la platja]()<img width="900" height="656" alt="Captura de pantalla de 2025-09-25 13-58-35" src="https://github.com/user-attachments/assets/9cedb154-e925-4bf2-9615-b2b0b8e9f8a8" />
+
 
 **Tasques pendents**
 - [ ] Aprendre a programar
