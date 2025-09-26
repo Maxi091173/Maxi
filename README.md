@@ -24,7 +24,7 @@
 
 
 
-![Programacion]([https://github.com/user-attachments/assets/f454fb95-f4e2-4218-816d-86bd13c6b66c](https://github.com/Maxi091173/Maxi/blob/main/Programacio.jpg?raw=true))
+![Programacion](<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/36422302-459c-45a7-a947-548abc0264f9" />)
 
 
 **Tasques pendents**
