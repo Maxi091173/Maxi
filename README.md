@@ -15,7 +15,8 @@
 **Educació**
 * Graduat de la ESO
   "Institut Numancia"
-  Cicle formatiu microinformatic -en procés-
+  
+ * Cicle formatiu microinformatic -en procés-
   "Puig Castellar"
 
 **Imatge dels meus Gustos i interesos**
